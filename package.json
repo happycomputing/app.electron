@@ -1,13 +1,10 @@
 {
-  "name": "proton-template-app",
-  "version": "1.0.0",
-  "description": "A simple template app for Proton",
+  "name": "app.electron",
+  "version": "0.0.1",
+  "description": "Electron app",
   "main": "app.js",
-  "author": "Connor Sears",
+  "author": "Pieter Botha",
   "scripts": {
     "start": "electron ."
-  },
-  "dependencies": {
-    "electron-debug": "^0.5.2"
   }
 }
